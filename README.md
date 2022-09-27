@@ -37,6 +37,17 @@ int main() {
 
 ## }
 
+## void celikslab::workExperience() {
+
+## }
+
+## void celikslab::abilities() {
+
+## }
+
+## void celikslab::projects() {
+
+## }
 
 ## void celikslab::contact() {
 
