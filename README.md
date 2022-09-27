@@ -12,7 +12,11 @@ class celikslab : public Github{
 
 int main() {
   celikslab mcelik("Muhammed Celik", 24, "İstanbul", "mhmmd.celik7@gmail.com");    
-  mcelik.myMethod(); 
+  mcelik.about();
+  mcelik.workExperience();
+  mcelik.abilities();
+  mcelik.projects();
+  mcelik.contact();
   return 0;
 }
 ```
