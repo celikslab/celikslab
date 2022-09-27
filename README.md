@@ -4,7 +4,8 @@
 
 ```c++
 class celikslab : public Github{        
-  public:         
+  public:    
+  
     void celisklab(string id, int age, string city, string mail) {  
       cout << " ";
     }
@@ -14,10 +15,13 @@ class celikslab : public Github{
     void projects(void);
     void contact(void);
     void ~celisklab();
+    
 };
 
 int main() {
-  celikslab mcelik("Muhammed Celik", 24, "İstanbul", "mhmmd.celik7@gmail.com");    
+
+  celikslab mcelik("Muhammed Celik", 24, "İstanbul", "mhmmd.celik7@gmail.com");  
+  
   mcelik.about();
   mcelik.workExperience();
   mcelik.abilities();
