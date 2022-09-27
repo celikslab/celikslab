@@ -11,7 +11,7 @@ class celikslab : public Github{
 };
 
 int main() {
-  celikslab mcelik;    
+  celikslab mcelik("Muhammed Celik", 24, "İstanbul", "mhmmd.celik7@gmail.com");    
   mcelik.myMethod(); 
   return 0;
 }
