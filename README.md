@@ -43,6 +43,26 @@ int main() {
 
 ## void celikslab::abilities() {
 
+● Stm32 işlemcilerine gömülü C, C++ ile driverlar geliştirebilir.
+
+● Real-time Scheduler Task sistemini kullanır.
+
+● OOP(Object Oriented Programming)yaklaşımına hakimdir.
+
+● Uart, SPI, I2C, Modbus, CANbus vb. haberleşme protokollerini yazabilir.
+
+● State Machine algoritmaları geliştirebilir.
+
+● Python(OOP) ile firmware geliştirebilir.
+
+● UML diagramları(use case, state, sequence vb.) tasarlayabilir ve sistem mimarisini kurgulayabilir.
+
+● Haberleşme protokolleri için profesyonel veyalın protokol dökümanları(ICD) yazabilir.
+
+● Yazılımların Github ile versiyon kontrolünü yapabilir.
+
+● HMI projeleri için CorelDRAW gibi programları kullanarak gui çalışmaları yapabilir.
+
 ## }
 
 ## void celikslab::projects() {
