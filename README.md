@@ -8,6 +8,12 @@ class celikslab : public Github{
     void celisklab(string id, int age, string city, string mail) {  
       cout << " ";
     }
+    void about(void);
+    void workExperience(void);
+    void abilities(void);
+    void projects(void);
+    void contact(void);
+    void ~celisklab();
 };
 
 int main() {
