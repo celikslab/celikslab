@@ -7,11 +7,11 @@
 <p align="left">
   
   <a href="https://www.instagram.com/celikslab/" style="margin-right: 10px">
-  <img width="48px" src="https://github.com/celikslab/celikslab/blob/main/additional_files/instagram.png" alt="İnstagram style="vertical-align:top; margin:8px" />
+  <img width="36px" src="https://github.com/celikslab/celikslab/blob/main/additional_files/instagram.png" alt="İnstagram style="vertical-align:top; margin:8px" />
   </a>
   
   <a href="https://www.linkedin.com/in/mhmmdcelik/" style="margin-right: 10px">
-  <img width="48px" src="https://github.com/celikslab/celikslab/blob/main/additional_files/linkedin.png" alt="Linkedin" style="vertical-align:top; margin:8px" />
+  <img width="36px" src="https://github.com/celikslab/celikslab/blob/main/additional_files/linkedin.png" alt="Linkedin" style="vertical-align:top; margin:8px" />
   </a>
   
 </p>
