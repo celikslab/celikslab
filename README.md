@@ -34,7 +34,6 @@ int main() {
 
 
 
-## 
 ###void celikslab::about( ) {
 
 Electronics Engineering is my childhood dream job. By educating myself on this dream, I laid the foundation for the production of projects. I trained nearly 250 students with Robotics and Coding Trainings. During my undergraduate education, I gained experience in R&D and project development by developing nearly 20 projects for Entrepreneurs. I Developed Communication Protocols(Uart, Modbus, Spi, I2C), Sensor Algorithms, Internet of Things (IoT) Projects etc. using Embedded C, C++, Python, UML languages. As an engineer enthusiastic about R&D field, I aim to play an innovative, creative and effective role in the companies I will work with.
