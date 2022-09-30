@@ -43,14 +43,14 @@ Electronics Engineering is my childhood dream job. By educating myself on this d
 
 
 
-## void celikslab::workExperience() {
+### void celikslab::workExperience() {
 
-## }
+### }
+##
 
 
 
-
-## void celikslab::abilities() {
+### void celikslab::abilities() {
 
 ● Stm32 işlemcilerine gömülü C, C++ ile driverlar geliştirebilir.
 
@@ -72,19 +72,19 @@ Electronics Engineering is my childhood dream job. By educating myself on this d
 
 ● HMI projeleri için CorelDRAW gibi programları kullanarak gui çalışmaları yapabilir.
 
-## }
+### }
+##
 
 
 
+### void celikslab::projects() {
 
-## void celikslab::projects() {
-
-## }
-
-
+### }
+##
 
 
-## void celikslab::contact() {
+
+### void celikslab::contact() {
 
 <p align="left">
   
@@ -98,4 +98,5 @@ Electronics Engineering is my childhood dream job. By educating myself on this d
   
 </p>
 
-## }
+### }
+##
