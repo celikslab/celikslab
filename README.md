@@ -22,7 +22,7 @@
 ### Languages & Tools
 
 <p align="left">
-  <img width="48" height="48" alt="GIF" src="https://github.com/celikslab/celikslab/blob/main/additional_files/c_icon.png" /> 
+  <img height="48" alt="GIF" src="https://github.com/celikslab/celikslab/blob/main/additional_files/c_icon.png" /> 
   &nbsp;
   <img width="48" alt="GIF" src="https://github.com/celikslab/celikslab/blob/main/additional_files/cpp_icon.png" /> 
   &nbsp;
