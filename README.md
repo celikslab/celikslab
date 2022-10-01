@@ -54,7 +54,13 @@ Electronics Engineering is my childhood dream job. By educating myself on this d
 
 <p align="left">
   <img width="48" alt="GIF" src="https://github.com/celikslab/celikslab/blob/main/additional_files/cpp_icon.png" style="vertical-align:top; margin:8px" />
-  C++ Programming
+  <img width="48" alt="GIF" src="https://github.com/celikslab/celikslab/blob/main/additional_files/python_icon.png" style="vertical-align:top; margin:8px" />
+  <img width="48" alt="GIF" src="https://github.com/celikslab/celikslab/blob/main/additional_files/yocto_icon.png" style="vertical-align:top; margin:8px" />
+  <img width="48" alt="GIF" src="https://github.com/celikslab/celikslab/blob/main/additional_files/qt_icon.png" style="vertical-align:top; margin:8px" />
+  <img width="48" alt="GIF" src="https://github.com/celikslab/celikslab/blob/main/additional_files/vscode_icon.png" style="vertical-align:top; margin:8px" />
+  <img width="48" alt="GIF" src="https://github.com/celikslab/celikslab/blob/main/additional_files/cubeide_icon.png" style="vertical-align:top; margin:8px" />
+  <img width="48" alt="GIF" src="https://github.com/celikslab/celikslab/blob/main/additional_files/monitor_icon.png" style="vertical-align:top; margin:8px" />
+  <img width="48" alt="GIF" src="https://github.com/celikslab/celikslab/blob/main/additional_files/uml_icon.png" style="vertical-align:top; margin:8px" />
 <br>
 
 
