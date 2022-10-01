@@ -6,17 +6,32 @@
 
 ## I' m a Sr. Embedded Software Engineer | C++ Developer | QT Developer
 
+- Experience in using Embedded C/C++ & Python
+- Understanding of OOP(object oriented programming) and design
+-
+- Experience with microcontrollers from ST Microelectronics, Atmel, TI or others.
 
-- Stm32 işlemcilerine gömülü C, C++ ile driverlar geliştirebilir.
-- Real-time Scheduler Task sistemini kullanır.
-- OOP(Object Oriented Programming)yaklaşımına hakimdir.
-- Uart, SPI, I2C, Modbus, CANbus vb. haberleşme protokollerini yazabilir.
+- Experience with Uart, SPI, I2C, RS232, RS485, USB, Modbus, CANbus
+- Experience with ARM Cortex-M based microcontroller(Stm32F4, Stm32G4 or similar)
+- Good understanding of Code Quality metrics, Unit Testing, Static Analysis, and Design Patterns
+- Design using SysML/UML(use case, state, sequence diagram etc.)
+- Experience with stmCubeİde, Keil, VsCode, PlatformIO, Arduino..
+- Ability to read and understand hardware schematics and component datasheets
+
+<!---
+- Gömülü C/C++ ve Python dillerinde yazılım geliştirebilir.
+- OOP(Object Oriented Programming) yaklaşımına hakimdir.
+- Bare-metal ve RT-Scheduler algoritmaları yazabilir.
 - State Machine algoritmaları geliştirebilir.
-- Python(OOP) ile firmware geliştirebilir.
+- ARM Cortex-M tabanlı işlemcileri(Stm32F4, Stm32G4 vb.) kullanır. 
+- Uart, SPI, I2C, RS232, RS485, USB, Modbus, CANbus vb. haberleşme protokollerini yazabilir.
 - UML diagramları(use case, state, sequence vb.) tasarlayabilir ve sistem mimarisini kurgulayabilir.
-- Haberleşme protokolleri için profesyonel veyalın protokol dökümanları(ICD) yazabilir.
+- Haberleşme protokolleri için profesyonel ve yalın protokol dökümanları(ICD) yazabilir.
+- Geliştirdiği yazılımların Unit Testlerini yapar.
 - Yazılımların Github ile versiyon kontrolünü yapabilir.
 - HMI projeleri için CorelDRAW gibi programları kullanarak gui çalışmaları yapabilir.
+-->
+
 
 ### Languages & Tools
 
