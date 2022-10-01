@@ -8,15 +8,20 @@
 
 - Experience in using Embedded C/C++ & Python
 - Understanding of OOP(object oriented programming) and design
--
+- 
 - Experience with microcontrollers from ST Microelectronics, Atmel, TI or others.
-
 - Experience with Uart, SPI, I2C, RS232, RS485, USB, Modbus, CANbus
 - Experience with ARM Cortex-M based microcontroller(Stm32F4, Stm32G4 or similar)
 - Good understanding of Code Quality metrics, Unit Testing, Static Analysis, and Design Patterns
 - Design using SysML/UML(use case, state, sequence diagram etc.)
 - Experience with stmCubeİde, Keil, VsCode, PlatformIO, Arduino..
+- Experience with GIT, Jira, Bitbucket
 - Ability to read and understand hardware schematics and component datasheets
+
+
+<!---
+- Embedded Firmware experience in Microcontroller and Microprocessor based environment
+-->
 
 <!---
 - Gömülü C/C++ ve Python dillerinde yazılım geliştirebilir.
