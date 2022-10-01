@@ -52,6 +52,8 @@ Electronics Engineering is my childhood dream job. By educating myself on this d
 
 ### void celikslab :: abilities( ) {
 
+ <img align="left" alt="GIF" src="https://github.com/celikslab/celikslab/blob/main/additional_files/cpp_icon.png" width="48" height="48" />
+
 ● Stm32 işlemcilerine gömülü C, C++ ile driverlar geliştirebilir.
 
 ● Real-time Scheduler Task sistemini kullanır.
