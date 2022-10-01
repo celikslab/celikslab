@@ -54,9 +54,7 @@ Electronics Engineering is my childhood dream job. By educating myself on this d
 
  <img align="left" alt="GIF" src="https://github.com/celikslab/celikslab/blob/main/additional_files/cpp_icon.png" width="48" height="48" />
  C++ Programming
- <br />
- <br />
- ---
+ <br>
 
 
 ● Stm32 işlemcilerine gömülü C, C++ ile driverlar geliştirebilir.
