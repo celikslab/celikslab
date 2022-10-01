@@ -8,6 +8,7 @@
 
 <p width="400"">
 - Stm32 işlemcilerine gömülü C, C++ ile driverlar geliştirebilir.
+<br>
 - Real-time Scheduler Task sistemini kullanır.
 - OOP(Object Oriented Programming)yaklaşımına hakimdir.
 - Uart, SPI, I2C, Modbus, CANbus vb. haberleşme protokollerini yazabilir.
@@ -17,7 +18,6 @@
 - Haberleşme protokolleri için profesyonel veyalın protokol dökümanları(ICD) yazabilir.
 - Yazılımların Github ile versiyon kontrolünü yapabilir.
 - HMI projeleri için CorelDRAW gibi programları kullanarak gui çalışmaları yapabilir.
-<br>
 
 ### Languages & Tools
 
