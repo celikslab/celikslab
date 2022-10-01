@@ -4,7 +4,6 @@
 
 <img align="right" alt="GIF" src="https://github.com/celikslab/celikslab/blob/main/additional_files/my_image.png" width="250" />
 
-
 ## I' m a Sr. Embedded Software Engineer | C++ Developer | QT Developer
 
 
