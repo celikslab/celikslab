@@ -59,7 +59,7 @@ Electronics Engineering is my childhood dream job. By educating myself on this d
   &nbsp;
   <img width="48" alt="GIF" src="https://github.com/celikslab/celikslab/blob/main/additional_files/yocto_icon.png"  />
   &nbsp;
-  <img width="48" alt="GIF" src="https://github.com/celikslab/celikslab/blob/main/additional_files/qt_icon.png" style="vertical-align:top; margin:8px" />
+  <img width="48" alt="GIF" src="https://github.com/celikslab/celikslab/blob/main/additional_files/qt_icon.png" />
   &nbsp;
   <img width="48" alt="GIF" src="https://github.com/celikslab/celikslab/blob/main/additional_files/vscode_icon.png" />
   &nbsp;
