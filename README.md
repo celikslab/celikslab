@@ -6,9 +6,8 @@
 
 ## I' m a Sr. Embedded Software Engineer | C++ Developer | QT Developer
 
-<p width="400"">
+
 - Stm32 işlemcilerine gömülü C, C++ ile driverlar geliştirebilir.
-</p>
 - Real-time Scheduler Task sistemini kullanır.
 - OOP(Object Oriented Programming)yaklaşımına hakimdir.
 - Uart, SPI, I2C, Modbus, CANbus vb. haberleşme protokollerini yazabilir.
