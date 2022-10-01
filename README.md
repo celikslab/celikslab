@@ -28,7 +28,7 @@
   &nbsp;
   <img width="48" alt="GIF" src="https://github.com/celikslab/celikslab/blob/main/additional_files/pyhton_icon.png" />
   &nbsp;
-  <img width="48" height="48" alt="GIF" src="https://github.com/celikslab/celikslab/blob/main/additional_files/linux_icon.png" />
+  <img height="48" alt="GIF" src="https://github.com/celikslab/celikslab/blob/main/additional_files/linux_icon.png" />
   &nbsp;
   <img width="48" alt="GIF" src="https://github.com/celikslab/celikslab/blob/main/additional_files/yocto_icon.png"  />
   &nbsp;
@@ -42,7 +42,7 @@
   &nbsp;
   <img width="48" alt="GIF" src="https://github.com/celikslab/celikslab/blob/main/additional_files/monitor_icon.png" />
   &nbsp;
-  <img width="48" height="48" alt="GIF" src="https://github.com/celikslab/celikslab/blob/main/additional_files/uml_icon.png" />
+  <img height="48" alt="GIF" src="https://github.com/celikslab/celikslab/blob/main/additional_files/uml_icon.png" />
   &nbsp;
 <br>
 
