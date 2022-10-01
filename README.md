@@ -53,7 +53,7 @@ Electronics Engineering is my childhood dream job. By educating myself on this d
 ### void celikslab :: abilities( ) {
 
 <p align="left">
-  <img alt="GIF" src="https://github.com/celikslab/celikslab/blob/main/additional_files/cpp_icon.png" width="48" />
+  <img width="48" alt="GIF" src="https://github.com/celikslab/celikslab/blob/main/additional_files/cpp_icon.png" style="vertical-align:top; margin:8px" />
   C++ Programming
 <br>
 
@@ -95,7 +95,7 @@ Electronics Engineering is my childhood dream job. By educating myself on this d
 <p align="left">
   
   <a href="https://www.instagram.com/celikslab/" style="margin-right: 10px">
-  <img width="36px" src="https://github.com/celikslab/celikslab/blob/main/additional_files/instagram.png" alt="İnstagram style="vertical-align:top; margin:8px" />
+  <img width="36px" src="https://github.com/celikslab/celikslab/blob/main/additional_files/instagram.png" alt="İnstagram" style="vertical-align:top; margin:8px" />
   </a>
   
   <a href="https://www.linkedin.com/in/mhmmdcelik/" style="margin-right: 10px">
