@@ -53,7 +53,8 @@ Electronics Engineering is my childhood dream job. By educating myself on this d
 ### void celikslab :: abilities( ) {
 
 <p align="left">
-  <img width="48" alt="GIF" src="![alt](https://github.com/celikslab/celikslab/blob/main/additional_files/cpp_icon.png)" border-width: 20px; /> 
+  <img width="48" alt="GIF" src="https://github.com/celikslab/celikslab/blob/main/additional_files/cpp_icon.png" border-width: 20px; /> 
+  &nbsp;
   <img width="48" alt="GIF" src="https://github.com/celikslab/celikslab/blob/main/additional_files/pyhton_icon.png" border-width: 20px; />
   <img width="48" alt="GIF" src="https://github.com/celikslab/celikslab/blob/main/additional_files/yocto_icon.png" style="vertical-align:top; margin:20px" />
   <img width="48" alt="GIF" src="https://github.com/celikslab/celikslab/blob/main/additional_files/qt_icon.png" style="vertical-align:top; margin:20px" />
