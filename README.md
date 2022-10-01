@@ -60,4 +60,4 @@
   
 </p>
 
-<img align="center" alt="GIF" src="https://github.com/celikslab/celikslab/blob/main/additional_files/rpi_vinly.jpg" width="700" />
+<img align="center" alt="GIF" src="https://github.com/celikslab/celikslab/blob/main/additional_files/rpi_vinly.jpg" />
