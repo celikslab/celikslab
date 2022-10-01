@@ -115,7 +115,7 @@ Electronics Engineering is my childhood dream job. By educating myself on this d
   <a href="https://www.instagram.com/celikslab/" style="margin-right: 10px">
   <img width="36px" src="https://github.com/celikslab/celikslab/blob/main/additional_files/instagram.png" alt="İnstagram" style="vertical-align:top; margin:8px" />
   </a>
-  
+  &nbsp;
   <a href="https://www.linkedin.com/in/mhmmdcelik/" style="margin-right: 10px">
   <img width="36px" src="https://github.com/celikslab/celikslab/blob/main/additional_files/linkedin.png" alt="Linkedin" style="vertical-align:top; margin:8px" />
   </a>
