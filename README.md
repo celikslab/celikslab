@@ -8,7 +8,6 @@
 
 - Experience in using Embedded C/C++ & Python
 - Understanding of OOP(object oriented programming) and design
-- 
 - Experience with microcontrollers from ST Microelectronics, Atmel, TI or others.
 - Experience with Uart, SPI, I2C, RS232, RS485, USB, Modbus, CANbus
 - Experience with ARM Cortex-M based microcontroller(Stm32F4, Stm32G4 or similar)
